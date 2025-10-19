@@ -1,6 +1,7 @@
 [
   { "user": "admin", "pass": "123456" },
-  { "user": "buyer", "pass": "1" },
-  { "user": "buyer", "pass": "2" },
-  { "user": "buyer", "pass": "3" }
+  { "user": "-", "pass": "-" },
+  { "user": "-", "pass": "-" },
+  { "user": "-", "pass": "-" }‚
+  { "user": "-", "pass": "-" }
 ]
